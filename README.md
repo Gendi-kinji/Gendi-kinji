@@ -1,8 +1,19 @@
 ### Hi there 👋
----
+![Game pic](../_Pixie_Stream Graphics.gif)
+
+
+![Profile views](https://komarev.com/ghpvc/?username=Gendi-kinji&label=Profile%20views&color=0e75b6&style=flat)
+
+My name is George Fundi. Aiming to earn proficiency in code through practice. Good programmer with the philosophy of will and hard work and the sense of being yourself.
+Currently focused on learning game development, machine learning and web development. Open to learning other programming and computer science concepts.
+
+***GitHub stats***
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Gendi-kinji&theme=dark)](https://git.io/streak-stats)
 
-<!--
-**Gendi-kinji/Gendi-kinji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+ 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gendi-kinji&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</p>
 
-My name is George Fundi. Aiming to earn proficiency in code through practice and perfection. Expert programmer with the philosophy of will and hard work and the sense of being oneself in the heart.
+
