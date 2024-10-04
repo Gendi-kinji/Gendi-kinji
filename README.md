@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Game pic](../_Pixie_Stream Graphics.gif)
+![_Pixie_ Stream Graphics](https://github.com/user-attachments/assets/90a121a5-0013-49a1-8eda-a9a2d41a69c7)
+
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=Gendi-kinji&label=Profile%20views&color=0e75b6&style=flat)
