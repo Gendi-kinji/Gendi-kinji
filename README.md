@@ -11,7 +11,7 @@ Currently focused on learning game development, machine learning and web develop
 ***GitHub stats***
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Gendi-kinji&theme=dark)](https://git.io/streak-stats)
-
+<a href="https://app.daily.dev/gendikinji"><img src="https://api.daily.dev/devcards/v2/Je77dk96XCBkejnkbbUSm.png?type=default&r=len" width="356" alt="Gendi-kinji's Dev Card"/></a>
 <p align="left">
  
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gendi-kinji&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
