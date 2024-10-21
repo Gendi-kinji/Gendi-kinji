@@ -7,6 +7,12 @@
 
 My name is George Fundi. Aiming to earn proficiency in code through practice. Good programmer with the philosophy of will and hard work and the sense of being yourself.
 Currently focused on learning game development, machine learning and web development. Open to learning other programming and computer science concepts.
+**Programming languages**
+- Python
+- PHP
+- HTML & CSS
+- JavaScript
+- Kotlin
 
 ***GitHub stats***
 
