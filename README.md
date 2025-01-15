@@ -46,6 +46,7 @@ src="https://img.shields.io/github/followers/Gendi-kinji?logo=github&style=for-t
 
 <a href="https://app.daily.dev/gendikinji"><img src="https://api.daily.dev/devcards/v2/Je77dk96XCBkejnkbbUSm.png?type=default&r=len" width="356" alt="Gendi-kinji's Dev Card"/></a>
 <img src="https://github.com/Gendi-kinji/Gendi-kinji/blob/main/November%202024%20Top%20Reader%20in%20Game%20Development.png" width="350">
+<img src="https://github.com/Gendi-kinji/Gendi-kinji/blob/main/December%202024%20Top%20Reader%20in%20Game%20Development.png" width="350">
 <p align="left">
  
  
