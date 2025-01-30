@@ -47,5 +47,6 @@ src="https://img.shields.io/github/followers/Gendi-kinji?logo=github&style=for-t
 <img src="https://github.com/Gendi-kinji/Gendi-kinji/blob/main/December%202024%20Top%20Reader%20in%20Game%20Development.png" width="350">
 <p align="left">
  
- 
+ ### Advice to fellow developers
+
 
