@@ -9,7 +9,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Game and software developer
 ---------------------------
 
-I have been learning to code for 2 years. I first started with C++ and later learnt Java, Python, HTML, CSS and Kotlin.
+I am a developer with a passion for games and fiction works.
+
 
 * 🌍  I'm based in Nairobi
 * 🧠  I'm learning Godot and Android
@@ -37,11 +38,8 @@ src="https://img.shields.io/github/followers/Gendi-kinji?logo=github&style=for-t
 
 <a href="http://www.github.com/Gendi-kinji"><img src="https://github-readme-stats.vercel.app/api?username=Gendi-kinji&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Gendi-kinji's GitHub stats" /></a>
 
-<a href="http://www.github.com/Gendi-kinji"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gendi-kinji&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/Gendi-kinji" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gendi-kinji&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
 
 
 <a href="https://app.daily.dev/gendikinji"><img src="https://api.daily.dev/devcards/v2/Je77dk96XCBkejnkbbUSm.png?type=default&r=len" width="356" alt="Gendi-kinji's Dev Card"/></a>
