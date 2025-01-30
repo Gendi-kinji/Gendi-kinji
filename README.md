@@ -48,5 +48,12 @@ src="https://img.shields.io/github/followers/Gendi-kinji?logo=github&style=for-t
 <p align="left">
  
  ### Advice to fellow developers
+ * Do not give up on your dreams, always.
+ * Do your best in everything you do.
+ * Aim for consistency, not perfection.
+ * Accept failure as a stepping stone for growth.
+ * Believe in yourself.
+ * Be happy about the small victories in your life.
 
+"The only way to do great work is to love what you do" - Steve Jobs
 
