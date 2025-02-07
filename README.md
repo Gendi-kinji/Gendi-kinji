@@ -42,7 +42,7 @@ src="https://img.shields.io/github/followers/Gendi-kinji?logo=github&style=for-t
 <a href="https://github.com/Gendi-kinji" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gendi-kinji&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-<a href="https://app.daily.dev/gendikinji"><img src="https://api.daily.dev/devcards/v2/Je77dk96XCBkejnkbbUSm.png?type=default&r=len" width="356" alt="Gendi-kinji's Dev Card"/></a>
+<a href="https://app.daily.dev/gendikinji"><img src="https://api.daily.dev/devcards/v2/Je77dk96XCBkejnkbbUSm.png?type=wide&r=v96" width="652" alt="Gendi-kinji's Dev Card"/></a>
 <img src="https://github.com/Gendi-kinji/Gendi-kinji/blob/main/November%202024%20Top%20Reader%20in%20Game%20Development.png" width="350">
 <img src="https://github.com/Gendi-kinji/Gendi-kinji/blob/main/December%202024%20Top%20Reader%20in%20Game%20Development.png" width="350">
 <p align="left">
