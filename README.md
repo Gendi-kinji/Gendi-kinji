@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-![_Pixie_ Stream Graphics](https://github.com/user-attachments/assets/90a121a5-0013-49a1-8eda-a9a2d41a69c7)
+<img src="https://github.com/Gendi-kinji/Gendi-kinji/blob/main/Premium%20Vector%20_%20Glitch%20effect%20game%20over%20background.jpeg" width="1050">
 
 
 
