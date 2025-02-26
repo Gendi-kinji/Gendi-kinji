@@ -14,7 +14,7 @@ I am a developer with a passion for games and fiction works.
 
 
 * 🌍  I'm based in Nairobi
-* 🧠  I'm learning Godot and Android
+* 🧠  I'm currently learning on Blender and game design.
 * 🤝  I'm open to collaborating on game development projects
 * ⚡  I am trying to be the best version of myself.
 
