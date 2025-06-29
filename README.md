@@ -18,6 +18,8 @@ I am a developer with a passion for games and fiction works.
 * 🤝  I'm open to collaborating on game development projects
 * ⚡  I am trying to be the best version of myself.
 
+
+
 <a href="https://www.github.com/Gendi-kinji" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Gendi-kinji?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
 
