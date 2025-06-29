@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-<img src="https://github.com/Gendi-kinji/Gendi-kinji/blob/main/Premium%20Vector%20_%20Glitch%20effect%20game%20over%20background.jpeg" width="1050">
+<img src="https://github.com/Gendi-kinji/Gendi-kinji/blob/main/_Game%20Over_%20Not%20Yet__%20is%20a%20bold%20message%20of….jpg" width="1050">
 
 
 
